@@ -933,8 +933,8 @@ footer {
   .nav-menu {
     position: fixed;
     background: var(--color-white);
-    width: 30%;
-    height: 30%;
+    width: 35%;
+    height: 35%;
     top: 0;
     right: -100%;
     padding: 4rem 0 0 3rem;
