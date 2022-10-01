@@ -924,6 +924,10 @@ footer {
   .nav {
     height: var(--header-height);
   }
+  
+  .mouse-wrapper .scroll{
+    display: none;
+  }
 
   .nav-list {
     flex-direction: column;
@@ -933,8 +937,8 @@ footer {
   .nav-menu {
     position: fixed;
     background: var(--color-white);
-    width: 35%;
-    height: 35%;
+    width: 40%;
+    height: 40%;
     top: 0;
     right: -100%;
     padding: 4rem 0 0 3rem;
